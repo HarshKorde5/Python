@@ -1,4 +1,0 @@
-------------------------------Directory Watcher----------------------------------
-Deleted file name is :  Input.txt
-Time required to execute the script is :  0.0010023117065429688
-----------------------------ThankYou for using script----------------------------
